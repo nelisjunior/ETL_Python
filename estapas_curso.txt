@@ -1,0 +1,12 @@
+Fundamentos de ETL
+
+Preparação do Projeto ETL
+
+
+Desenvolvimento do projeto ETL: Extração e validação
+
+	Como validar a extração de dados - Parte 4: oZ5ZFvfANTg
+	Como validar a extração de dados - Parte 5:
+	Como validar a extração de dados - Parte 6:
+	
+Desenvolvimento do projeto ETL: Limpeza
